@@ -9,4 +9,7 @@ Distribuição de recursos alimentares (PNAE)
 Corpo docente e profissionais de apoio
 
 Desigualdades raciais e geográficas
+
+Link para o dashboard no looker studio: https://lookerstudio.google.com/s/gs4xRylkP8Q
   
+link para download do censo escolar 2024: https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados
